@@ -36,13 +36,13 @@ The primary goal of this project is to develop and deploy an automated ETL solut
 * **Data Flow:** 🔀 Handles the actual data processing and movement.
 * **Audit Dimension:** 📝 Stores crucial information about each package run.
 
-![Control Flow](https://github.com/user-attachments/assets/02b695ee-104d-447d-91f5-ea08e21169fa)
+![Control Flow](https://github.com/Welloz03/Telecom-SSIS-Project/blob/fcfd3d9bf8ad71491aa87c9b6452938bbe5700c0/images/Control%20Flow.png)
 
-![Data Flow 1](https://github.com/user-attachments/assets/e3a6f43a-de61-4ba6-8450-1d7b57bdfe19)
+![Data Flow 1](https://github.com/Welloz03/Telecom-SSIS-Project/blob/fcfd3d9bf8ad71491aa87c9b6452938bbe5700c0/images/Data%20Flow%201.png)
 
-![Data Flow 2](https://github.com/user-attachments/assets/382c1c72-e2b9-45b6-a31a-6f4b95714eaa)
+![Data Flow 2](https://github.com/Welloz03/Telecom-SSIS-Project/blob/fcfd3d9bf8ad71491aa87c9b6452938bbe5700c0/images/Data%20Flow%202.png)
 
-![Database Schema](https://github.com/user-attachments/assets/92e4f44b-f3bd-4aa9-ae76-1f86e572fa2e)
+![Database Schema](https://github.com/Welloz03/Telecom-SSIS-Project/blob/fcfd3d9bf8ad71491aa87c9b6452938bbe5700c0/images/Database%20Schema.png)
 
 ## 🎉 Result
 
