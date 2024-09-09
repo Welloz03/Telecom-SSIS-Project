@@ -1,5 +1,5 @@
 # Telecom SSIS Project
-# 🚀 Automated ETL Solution for Customer Activity Data 🚀
+# 🚀 Automated ETL Solution for Customer Activity Data 
 
 ## 🧐 Problem Statement
 
@@ -36,15 +36,17 @@ The primary goal of this project is to develop and deploy an automated ETL solut
 * **Data Flow:** 🔀 Handles the actual data processing and movement.
 * **Audit Dimension:** 📝 Stores crucial information about each package run.
 
-[**Image: Control Flow Diagram**]
+![Control Flow](https://github.com/user-attachments/assets/02b695ee-104d-447d-91f5-ea08e21169fa)
 
-[**Image: Data Flow Diagram**]
+![Data Flow 1](https://github.com/user-attachments/assets/e3a6f43a-de61-4ba6-8450-1d7b57bdfe19)
 
-[**Image: Database Schema**]
+![Data Flow 2](https://github.com/user-attachments/assets/382c1c72-e2b9-45b6-a31a-6f4b95714eaa)
+
+![Database Schema](https://github.com/user-attachments/assets/92e4f44b-f3bd-4aa9-ae76-1f86e572fa2e)
 
 ## 🎉 Result
 
-[**Image: Example of processed data or dashboard**]
+![Result](https://github.com/user-attachments/assets/f5f091bf-b835-478e-8b23-c3c09e190a50)
 
 ## 📚 References
 
