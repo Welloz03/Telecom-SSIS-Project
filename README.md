@@ -46,7 +46,7 @@ The primary goal of this project is to develop and deploy an automated ETL solut
 
 ## 🎉 Result
 
-![Result](https://github.com/user-attachments/assets/f5f091bf-b835-478e-8b23-c3c09e190a50)
+![Result](https://github.com/Welloz03/Telecom-SSIS-Project/blob/6b7f70743ceb10dbe92e18d1821ef8c524eb35ba/images/Result.png)
 
 ## 📚 References
 
