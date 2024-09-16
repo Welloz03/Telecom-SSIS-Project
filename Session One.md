@@ -1,0 +1,5 @@
+- [[DB and DMBS]]
+- [[ERD]]
+- [[SSMS Versions and editions]]
+- [[Basic SQL statements]]
+- [[Introduction to T-SQL]]
